@@ -22,12 +22,17 @@ body {
 #header2 {display: flex
 }
 
+#right-side {
+    flex-grow: 1;
+
+}
 .content {
     margin-left: 10px;
     color: #565256;
     font-size: 18px;
     
 }
+
 
 h1 {
     
